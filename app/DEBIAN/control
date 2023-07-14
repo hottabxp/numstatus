@@ -1,0 +1,9 @@
+Package: numstatus
+Version: 1.0
+Section: custom
+Priority: optional
+Architecture: amd64
+Essential: no
+Installed-Size: 1024
+Maintainer: HottabXP <hottabxs@gmail.com>
+Description: Программа для отображения статуса numlock

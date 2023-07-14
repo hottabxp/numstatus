@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/numstatus
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Numlock Indicator
+Name=Numlock Indicator
+Comment[en_US]=
+Comment=
+Icon=
+Path=
+Terminal=false
+StartupNotify=false

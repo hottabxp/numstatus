@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/numstatus
+Hidden=false
+NoDisplay=false
+Name[en_US]=NumStatus
+Name=NumStatus
+Comment[en_US]=
+Comment=
+Icon=
+Path=
+Terminal=false
+StartupNotify=false
